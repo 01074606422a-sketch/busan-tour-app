@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-folium
-streamlit-folium
-altair
-google-generativeai
-openpyxl
